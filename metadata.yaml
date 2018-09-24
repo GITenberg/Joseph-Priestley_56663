@@ -1,11 +1,16 @@
 _repo: Joseph-Priestley_56663
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56663-h/images/cover.jpg
 creator:
   author:
     agent_name: Thorpe, Thomas Edward
     gutenberg_agent_id: '48076'
     url: http://www.gutenberg.org/2009/agents/48076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56663#Joseph-Priestley
 gutenberg_issued: '2018-02-28'
 gutenberg_type: Text
 identifiers:
